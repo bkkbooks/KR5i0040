@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0040/CK-KZ-jye/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 銅符鐵券銅符鐵劵題辭考之列仙傳曲阜蘭公精修孝行感斗中眞人自稱孝悌王下降其家付以金丹寶經銅符鐵劵令轉授丹陽黃堂諶姆傳之眞君許祖今觀其書列爲三元藥物火候一一得備似爲寶經於符劵無與余博集符篆靈文隨手成帙欲加釐正而是書傳久未可妄以已意紊亂仙經書仍符劵舊名而符篆靈文次爲別錄以備參考丹經種種止於言理未若是書直指眞訣略不少諱者心解之士苟得其訣神丹可立就矣夫訣豈易言哉求訣於心得者十九求訣於口得者十五求訣於紙得無一者余集是書誠索訣於紙然他日有因此而獲魚兔者未必非此爲之筌蹄也己亥仲夏一壑居士題
+  hash: sha256:57887b0977e55f0f1daaeaff539c3b538108b7065135d5d4fd67900e8327d85a
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-KZ_KR5i0040_01p001a}
+metadata:
+  title: 銅符鐵券
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:52:25.941974'
+  source:
+    repository: kanripo
+    path: KR5i0040/KR5i0040_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:a56ddbe55f25635d1e45d158ed94207064aa6717888a182de746e0f34c320a28

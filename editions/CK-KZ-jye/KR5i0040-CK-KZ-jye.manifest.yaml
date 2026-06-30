@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR5i0040/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5i0040/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 銅符鐵券
+  date: '2015-08-29 17:52:25.941974'
+  source:
+    repository: kanripo
+    path: KR5i0040
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0040_001-CK-KZ-jye.yaml, hash: 'sha256:a56ddbe55f25635d1e45d158ed94207064aa6717888a182de746e0f34c320a28'}
+  - {seq: 2, filename: KR5i0040_002-CK-KZ-jye.yaml, hash: 'sha256:f575e36c436183e0c032838d9ad0acdcb2bf92dd447e41ee3dbcd0f77801aa51'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0040_001-CK-KZ-jye.markers.yaml, hash: 'sha256:ca8af622c5e4594de3137acbf1338f351d0a658153756fbb8cf00140beb6d4e1'}
+  - {seq: 2, role: markers, filename: assets/KR5i0040_002-CK-KZ-jye.markers.yaml, hash: 'sha256:900ca793cd9b9be3000e990275bc30707247c9b7760d0cf8d40c5e1b59c68559'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0040_01p001a
+    span:
+    - body
+    - 0
+    - 239
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0040_02p001a
+    span:
+    - body
+    - 0
+    - 10883
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:7c6c54c6437aca9cc6c936b8d7a7bbce317732ead86f0d0ccc0512ae50d76f6a
